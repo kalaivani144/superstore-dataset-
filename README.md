@@ -1,5 +1,5 @@
-# superstore-dataset-
-![Task 2: Data Visualization and Storytelling](./heading.png)
+# Task 2: Data Visualization and Storytelling](./heading.png)
+superstore-dataset
 
 **Dashboard 1**  
 A comparative gauge visualization of MRR, surface roughness, and kerf width across three experiments.  
