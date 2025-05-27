@@ -1,4 +1,4 @@
-# Task 2: Data Visualization and Storytelling](./heading.png)
+# Task 2: Data Visualization and Storytelling]
 superstore-dataset
 
 **Dashboard 1**  
